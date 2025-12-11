@@ -1,4 +1,4 @@
-**###Secure Check Traffic Stop Analytics Dashboard###**
+**Secure Check Traffic Stop Analytics Dashboard**
 Project Overview:
 The Traffic Stop Analytics Dashboard is a data-driven solution for law enforcement agencies and traffic analysts. It provides insights into traffic stop incidents, including arrests, searches, violations, and driver demographics. The project leverages Python, Streamlit, MySQL, and Altair to create an interactive dashboard for real-time and historical analysis.
 
